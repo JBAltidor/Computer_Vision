@@ -1,2 +1,2 @@
 # Computer_Vision
-Project based on computer vison technologies.
+Projects based on computer vison technologies.
