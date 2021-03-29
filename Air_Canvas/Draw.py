@@ -48,8 +48,6 @@ cv2.createTrackbar('V1','image2',194,255,nothing)
 # Setup the Paint interface
 paintWindow = np.zeros((471,636,3)) + 255
 
-
-
 cv2.namedWindow('Paint', cv2.WINDOW_AUTOSIZE)
 
 # Load the video
